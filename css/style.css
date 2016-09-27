@@ -1,0 +1,48 @@
+/*
+Project Name: Relaxr
+Client: Ms. Kim
+Author: Sam Stringfield
+Developer @GA in NYC
+*/
+
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+#picture {margin-left: 36px;
+	      margin-top: 36px;
+         }
+a {font-size: 48px; color: white; font-family: "Open Sans", sans-serif;}
+h1 {font-size: 48px; color:white; font-family: "Open Sans", sans-serif;}
+h2 {font-size: 40px;}
+h3 {font-size: 28px; font-style: "Extra Bold"; width: 125px; background-color: #f9e42e;}
+h4 {font-size: 24px; border: 5px;font-style: Bold;}
+h5 {font-size: 48px; color: yellow;}
+h6 {font-size: 36px; font-family: "Open Sans", sans-serif; color: white;}
+#benefits {background-color: #f0efef; font-family: "Open Sans", sans-serif; padding-right: 100px; padding-left: 100px; }
+li {font-size: 26px;}
+p {font-size: 26px; font-style: light;}
+p2 {font-style: italic; color: white; font-size: 36px; margin-right: 36px; margin-left: 36px;}
+
+#signup {background-color: yellow;}
+#copyright {color: white;}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
